@@ -1,4 +1,5 @@
-cifar-10-batches-py/*
-.DS_Store
+cifar-10-batches-py/
 anaconda_projects/
+.DS_Store
+dataset.pkl
 
