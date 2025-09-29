@@ -1,0 +1,4 @@
+cifar-10-batches-py/*
+.DS_Store
+anaconda_projects/
+
